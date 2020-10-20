@@ -461,15 +461,15 @@ background(room2)
 
 
 
-textSize(Width/30)
-textStyle(BOLD)
-fill(255);
-text(minutes+":"+seconds,Width-Height/5.5,Height/13)
+// textSize(Width/30)
+// textStyle(BOLD)
+// fill(255);
+// text(minutes+":"+seconds,Width-Height/5.5,Height/13)
 
-textSize(Width/30)
-textStyle(BOLD)
-fill(255);
-text(player.name,Width/25,Height/13)
+// textSize(Width/30)
+// textStyle(BOLD)
+// fill(255);
+// text(player.name,Width/25,Height/13)
 
 
 
